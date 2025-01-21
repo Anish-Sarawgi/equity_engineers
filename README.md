@@ -76,7 +76,7 @@ This repository provides an end-to-end solution for historical Risk Analytics ba
    ![Image](https://github.com/user-attachments/assets/4d551b8d-88a7-4ad3-83d1-3014f5665965)
 
 3. **Logarithmic Relative Return Chart**:
-   ![alt text](image-1.png)
+ ![Image](https://github.com/user-attachments/assets/b426e539-8c15-46f4-9183-45dfd56ddeb6)
 
 ## Notes
 - Ensure data security for user authentication and financial data.
